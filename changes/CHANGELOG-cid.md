@@ -1,5 +1,8 @@
 # What's new in the Cost Intelligence Dashboard (CID) 
 
+## CID - 3.5.1
+* Added filter on Account Name in "Storage Summary" sheet
+  
 ## CID - 3.5
 * Removed link to deprecated feedback form
 
